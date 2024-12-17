@@ -5,16 +5,6 @@
 //chars is a list of sorted single-character strings.
 
 let someArray = [3.0,'a',7,'x','20','d',4,'f', 8];
-/*
-function takers(someArray) {
-    for(i= [0]; i <= [10]; i++){
-        if(1%2 === 0){
-            return someArray
-        }
-        console.log(takers);
-    }
-}
-*/
 
 function sortArray(array){
     let evens = [];    
